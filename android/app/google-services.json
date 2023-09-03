@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523106684590",
+    "project_id": "shelf-space-f6657",
+    "storage_bucket": "shelf-space-f6657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523106684590:android:31ee11a591bbedee9fe73f",
+        "android_client_info": {
+          "package_name": "com.example.bookshelf_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523106684590-i6ejna0j16fnti0rk550i7mh6en4b86s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookshelf_virtual",
+            "certificate_hash": "47bdd98771a2fcfd1ea55bfb4ef95d76ac9c27ec"
+          }
+        },
+        {
+          "client_id": "523106684590-q5b5t09gnkooisonbq29rghtdue2urea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqlt7WgsapFU6AmxOVs5YBX348zOPEgP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523106684590-q5b5t09gnkooisonbq29rghtdue2urea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
